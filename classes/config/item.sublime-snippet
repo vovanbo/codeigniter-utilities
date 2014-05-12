@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$this->conf->item(${1:'${2:item_name}'});
+\$this->config->item(${1:'${2:item_name}'});
 ]]></content>
 	<tabTrigger>ciconfitem</tabTrigger>
 	<description>Config Item</description>

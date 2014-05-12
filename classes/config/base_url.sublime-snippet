@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$this->conf->base_url();
+\$this->config->base_url();
 ]]></content>
 	<tabTrigger>ciconfbase</tabTrigger>
 	<description>Config Base URL</description>
